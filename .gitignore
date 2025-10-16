@@ -1,0 +1,24 @@
+﻿# C build
+*.o
+*.obj
+*.exe
+*.out
+*.a
+*.so
+*.dll
+
+# local/test files
+*.txt
+*.zip
+pthread
+words
+lwords
+fwords
+
+# VSCode / tooling
+.vscode/
+.devcontainer/
+
+# OS cruft
+.DS_Store
+Thumbs.db
