@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git remote set-url:*)",
+      "Bash(git pull:*)",
+      "Bash(git fetch:*)",
+      "Bash(git ls-tree:*)",
+      "Bash(powershell.exe -Command \"Move-Item C:\\Users\\kings\\Desktop\\CS111 C:\\Users\\kings\\Desktop\\cs111-environment\\CS111\")"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
